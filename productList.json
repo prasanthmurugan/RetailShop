@@ -1,49 +1,247 @@
 [
   {
     "CatId": 1,
-    "CatName": "Electronics,Mobile & Accessories",
+    "CatName": "Electronics",
     "Items": [
       {
         "ItemName": "Samsung 28 L Convection Microwave Oven  (CE1041DSB2/TL, Black)",
+        "ItemShortName": "Samsung 28 Microwave Oven",
         "ItemPrice": "11999",
-        "ItemImage": "",
-        "ItemDescription": ""
-      },
-      {
-        "ItemName": "LG 108cm (43 inch) Ultra HD (4K) LED Smart TV  (43UJ652T)",
-        "ItemPrice": "55999",
-        "ItemImage": "",
-        "ItemDescription": ""
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jawthu80/microwave-new/6/x/n/ce1041dsb2-xtl-samsung-original-imafydz5k8njumnw.jpeg?q=70",
+        "ItemDescription": "From potato wedges to tandoori rotis - make all that you want with the Samsung 28 L convection microwave oven."
       },
       {
         "ItemName": "Eureka Forbes Quick Clean DX Dry Vacuum Cleaner  (Black, Red)",
+        "ItemShortName": "Eureka Forbes Vacuum Cleaner",
         "ItemPrice": "55999",
-        "ItemImage": "",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/j4pwsy80-1/vacuum-cleaner/j/s/j/eureka-forbes-quick-clean-dx-quick-clean-dx-original-imaevkhskd3hchyn.jpeg?q=70",
+        "ItemDescription": "Make every corner of your home look spic and span, as you clean using the Quick Clean DX vacuum cleaner from Eureka Forbes. It is designed to remove deeply embedded dust easily. It also comes with user-friendly features such as the Smart Indicator and the Automatic Power Cable Winder."
+      },
+      {
+        "ItemName": "Mi (8 speaker drivers) Bluetooth Soundbar  (White, 2.0 Channel)",
+        "ItemShortName": "Mi Bluetooth Soundbar",
+        "ItemPrice": "4999",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/juu4jgw0/speaker/soundbar/w/6/n/mi-mdz-27-di-original-imaffvhrwkcew8gw.jpeg?q=70",
+        "ItemDescription": "Take entertainment to the next level with this soundbar from Mi. While the 8 Sound Drivers deliver a rich soundscape, the high-speed Bluetooth 4.2 LE feature lets you connect your devices wirelessly. The Dome Tweeters, Passive Radiators and Bass Speakers are designed to give you a captivating aural experience."
+      },
+      {
+        "ItemName": "Nikon D5600 DSLR Camera Body with Dual Lens: AF-P DX Nikkor 18 - 55 MM F/3.5-5.6G VR and 70-300 MM F/4.5-6.3G ED VR (16 GB SD Card)  (Black)",
+        "ItemShortName": "Nikon D5600 DSLR Camera",
+        "ItemPrice": "45999",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/dslr-camera/t/h/g/d5600-nikon-d5600-original-imaezvbrhkgzyywz.jpeg?q=70",
         "ItemDescription": ""
+      },
+      {
+        "ItemName": "Google Home  (White)",
+        "ItemShortName": "Google Home  (White)",
+        "ItemPrice": "7999",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jfsknm80/smart-assistant/b/h/m/home-ghome-google-original-imaf46bjrpge6z8r.jpeg?q=70",
+        "ItemDescription": "A smart personal assistant at your beck and call, who makes doing your everyday tasks easier - isn't that the dream? Whether it is viewing your calendar, playing music, or controlling your home entertainment, these can all be done by the Google Home - all you have to do is say, Ok Google."
       }
     ]
   },
   {
     "CatId": 2,
-    "CatName": "Home & Kitchen",
+    "CatName": "Home &  Furniture",
     "Items": [
       {
-        "ItemName": "Perfect Homes by Flipkart Julian Engineered Wood 4 Door Wardrobe  (Finish Color - Wenge, Mirror Included)",
+        "ItemName": "Perfect Homes by Julian Engineered Wood 4 Door Wardrobe  (Finish Color - Wenge, Mirror Included)",
+        "ItemShortName": "4 Door Wardrobe",
         "ItemPrice": "14499",
-        "ItemImage": "",
-        "ItemDescription": ""
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/wardrobe-closet/h/b/k/particle-board-w4wen00ld2wmp-flipkart-perfect-homes-dark-wenge-original-imaf9m4gn4fp8k9w.jpeg?q=70",
+        "ItemDescription": "The material used in this wardrobe is laminated from all the sides to give it full proof protection from moisture and other external factors."
       },
       {
         "ItemName": "The Attic Ludo Mango Solid Wood Coffee Table  (Finish Color - Walnut)",
+        "ItemShortName": "Wood Coffee Table",
         "ItemPrice": "12349",
-        "ItemImage": "",
-        "ItemDescription": ""
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jhs0o7k0/coffee-table/8/r/m/mango-wood-kl-1870-the-attic-walnut-original-imaf5q3gjyn3bhf5.jpeg?q=70",
+        "ItemDescription": "Each of the Solid Wood Furniture is hand crafted by the finest artisans from Jodhpur. Wood grain, color variance, texture changes and knots are all part of the charm of the product."
       },
       {
         "ItemName": "VJ Interior Leatherette Office Executive Chair  (Black, Set of 2)",
+        "ItemShortName": "Leatherette Office Chair",
         "ItemPrice": "5949",
-        "ItemImage": "",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jhgl5e80/office-study-chair/f/a/f/leatherette-vj-13-visitor-lb-combo-vj-interior-original-imaf5gfbkeqyg38z.jpeg?q=70",
+        "ItemDescription": "The leatherette used for making this office chair is easy to clean and maintain."
+      },
+      {
+        "ItemName": "7CR Analog 30.5 cm X 30.5 cm Wall Clock  (Brown, Without Glass)",
+        "ItemShortName": "Analog Wall Clock",
+        "ItemPrice": "506",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jhavdzk0/wall-clock/u/2/m/columbian-walnut-7x7-columbian-walnut-7x7-analog-7cr-original-imaeujjkx8tv6h3h.jpeg?q=70",
         "ItemDescription": ""
+      },
+      {
+        "ItemName": "Gojeeva Pendant Wall Lamp",
+        "ItemShortName": "Gojeeva Pendant Wall Lamp",
+        "ItemPrice": "339",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jshtk7k0/wall-lamp/g/k/z/goj-13-204-black-shri-girraj-ji-original-imaef53gqgn4g28h.jpeg?q=70",
+        "ItemDescription": "Enhance your room with a contemporary look with this fine black sconce wall hanging lamp brought to you by Gojeeva. Crafted from the finest quality glass and wood, this wall hanging lamp will remain the same for many years. It is designed to replace incandescent equivalents to save you energy and still achieve superior lighting. You can choose from a wide selection to light up your residential or commercial interior. Plus, this wall hanging lamp will also keep your eyes safe. Graceful and grand, this light fixture is impressive. Additionally, this wall hanging lamp comes with one cable connector and two screws."
+      }
+    ]
+  },
+  {
+    "CatId": 3,
+    "CatName": "Mobile & Computers",
+    "Items": [
+      {
+        "ItemName": "Redmi Note 7 Pro (Space Black, 64 GB)  (4 GB RAM)",
+        "ItemShortName": "Redmi Note 7 Pro (Space Black, 64 GB)",
+        "ItemPrice": "13999",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jskofww0/mobile/y/h/u/mi-redmi-note-7-pro-na-original-imafe4b62yeycjfq.jpeg?q=70",
+        "ItemDescription": "Whether it’s work or entertainment, the Redmi Note 7 Pro challenges all odds and provides a truly immersive and enriched smartphone experience. Its 2.0 GHz Qualcomm Snapdragon 675 processor makes multitasking easy and it also comes with a (48 MP + 5 MP) dual-rear camera and a 13 MP front camera which let you click truly beautiful pictures. What’s more, the Face Unlock features makes unlocking this phone a piece of cake."
+      },
+      {
+        "ItemName": "Samsung Galaxy A10 (Blue, 32 GB)  (2 GB RAM)",
+        "ItemShortName": "Samsung Galaxy A10 (Blue, 32 GB)",
+        "ItemPrice": "8490",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jt8yxe80/mobile/g/v/x/samsung-galaxy-a10-sm-a105fzbgins-original-imafenbrg4zt5xye.jpeg?q=70",
+        "ItemDescription": "Take your smartphone experience to the next level with the Samsung Galaxy A10. You can watch everything on its 15.80 cm (6.2) Infinity-V Display come to life. Powered by the Exynos 7884 Processor and 3400-mAh Battery, there is very little that this phone can’t handle."
+      },
+      {
+        "ItemName": "Apple iPhone XS (Space Grey, 512 GB)",
+        "ItemShortName": "Apple iPhone XS (Space Grey, 512 GB)",
+        "ItemPrice": "134900",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jm9hfgw0/mobile/y/4/u/apple-iphone-xs-mt9l2hn-a-original-imaf97f65bqbdycy.jpeg?q=70",
+        "ItemDescription": "The iPhone Xs is in tune with beloved versions of previous Apple mobile phones in the sense that it is built in privacy and security from the very beginning. Every detail, from its sleek design to the innovative ways its components are recycled, goes into setting this addition to iPhones apart from the crowd. One of the most noticeable attractions of the iPhone Xs is its indulgent 14.73 cm (5.8) Super Retina Display. Sleek in appearance and constructed to be sturdy, this iPhone delivers in terms of aesthetics and durability. It is even resistant to liquid spills and dust. The A12 Bionic Chip which powers this Apple phone transforms the way you look at pictures, the way you game, or even the way you browse the internet on your phone with its fluid performance. Explore different ways to capture the world around you with the iPhone Xs’ 12 MP dual-rear camera system and its 7 MP selfie camera."
+      },
+      {
+        "ItemName": "Microsoft Surface Pro 6 Core i5 8th Gen - (8 GB/128 GB SSD/Windows 10 Home) 1796 2 in 1 Laptop  (12.3 inch, Grey, 0.77 kg)",
+        "ItemShortName": "Microsoft Surface Pro 6 Core i5 8th Gen",
+        "ItemPrice": "76989",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jraycnk0/computer/m/p/s/microsoft-na-2-in-1-laptop-original-imafd4txrpws9jgg.jpeg?q=70",
+        "ItemDescription": "Boost your efficiency and productivity with the Microsoft Surface Pro 6 laptop. With the 8th Gen Intel Core i5 Processor and 8GB of LPDDR3 RAM, along with the Intel UHD Graphics 620 processor, this laptop can virtually handle any task that you throw at it. With the Laptop Mode, Tablet Mode and the Portable Studio Mode, this laptop can adapt to your needs seamlessly."
+      },
+      {
+        "ItemName": "Dell Inspiron 15 5000 Ryzen 3 Dual Core - (4 GB/1 TB HDD/Windows 10 Home) 5575 Laptop  (15.6 inch, Black, 2.22 kg, With MS Office)",
+        "ItemShortName": "Dell Inspiron 15 5000",
+        "ItemPrice": "35990",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jlzhci80/computer/h/6/t/dell-na-laptop-original-imaf4hnvhh3f8g8r.jpeg?q=70",
+        "ItemDescription": "The Dell Inspiron 15 5000 Ryzen 3 Dual Core Laptop is a sophisticated personal device with impressive and powerful features to ensure that you perform a number of tasks swiftly. This laptop features an AMD Ryzen 3 Processor, 4 GB of RAM, and a 39.62 cm (15.6) Full HD Display for seamless multitasking and high-quality entertainment."
+      }
+    ]
+  },
+  {
+    "CatId": 4,
+    "CatName": "Fashion",
+    "Items": [
+      {
+        "ItemName": "GUIDE STRIDE RUN LP Walking Shoes For Men  (Grey)",
+        "ItemShortName": "GUIDE STRIDE RUN LP (Grey)",
+        "ItemPrice": "1674",
+        "ItemImage": "https://rukminim1.flixcart.com/image/800/960/jql8fbk0/shoe/w/t/f/dv7830-8-reebok-flat-grey-black-original-imafcgazpuvwjnxh.jpeg?q=50",
+        "ItemDescription": "The Reebok Guide Stride Run LP shoes for men have textile, mesh and synthetic upper. The multiple nodes help to enhance natural motion and the Ultralite bottom gives lightweight feel and natural strike."
+      },
+      {
+        "ItemName": "Helmont Solid Men Hooded Black, Red T-Shirt",
+        "ItemShortName": "Men Hooded Black",
+        "ItemPrice": "256",
+        "ItemImage": "https://rukminim1.flixcart.com/image/800/960/jtn9bww0/t-shirt/5/g/g/m-hm-1001-black-red-helmont-original-imafdfvvr8hqdu65.jpeg?q=50",
+        "ItemDescription": ""
+      },
+      {
+        "ItemName": "Flying Machine Skinny Men Blue Jeans",
+        "ItemShortName": "Flying Machine Blue Jeans",
+        "ItemPrice": "1034",
+        "ItemImage": "https://rukminim1.flixcart.com/image/800/960/jua4djk0/jean/p/z/8/32-fmjno0436-flying-machine-original-imaffgdqvfjxmujn.jpeg?q=50",
+        "ItemDescription": ""
+      },
+      {
+        "ItemName": "Printed, Animal Print Fashion Cotton Blend Saree  (Red)",
+        "ItemShortName": "Fashion Cotton Blend Saree  (Red)",
+        "ItemPrice": "449",
+        "ItemImage": "https://rukminim1.flixcart.com/image/800/960/jshtk7k0/sari/h/k/f/free-ds-1795-a-divastri-original-imafeywx4tmyuxbv.jpeg?q=50",
+        "ItemDescription": ""
+      },
+      {
+        "ItemName": "Embroidered Semi Stitched Lehenga Choli  (Blue, Gold)",
+        "ItemShortName": "Lehenga Choli  (Blue, Gold)",
+        "ItemPrice": "538",
+        "ItemImage": "https://rukminim1.flixcart.com/image/800/960/jhf5pjk0/lehenga-choli/c/s/z/free-b-mastani-1-f-plus-fashion-original-imaf5eucdg6h2hdp.jpeg?q=50",
+        "ItemDescription": ""
+      }
+    ]
+  },
+  {
+    "CatId": 5,
+    "CatName": "Beauty & Health Products",
+    "Items": [
+      {
+        "ItemName": "Park Avenue Signature - Voyage, Neo Deodorant Spray - For Men  (420 ml, Pack of 3)",
+        "ItemShortName": "Park Avenue For Men  (420 ml, Pack of 3)",
+        "ItemPrice": "344",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jfvfjbk0/deodorant/g/b/u/300-signature-voyage-neo-deodorant-spray-park-avenue-men-original-imaf48ujsfmv9umj.jpeg?q=70",
+        "ItemDescription": "Park Avenue Signature Deodorant Buy 2 Voyage, Get Neo Free ( Buy 2 Get 1 Free) (420 ml, Pack of 3)"
+      },
+      {
+        "ItemName": "Fogg Scent Xtremo Eau de Parfum - 100 ml  (For Men)",
+        "ItemShortName": "Fogg Scent - 100 ml  (For Men)",
+        "ItemPrice": "338",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/perfume/4/y/z/eau-de-parfum-fogg-100-scent-xtremo-original-imaehkhssdvpthhh.jpeg?q=70",
+        "ItemDescription": ""
+      },
+      {
+        "ItemName": "Beardo GODFATHER Beard Lite Hair Oil  (30 ml)",
+        "ItemShortName": "Beardo GODFATHER (30 ml)",
+        "ItemPrice": "234",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jljri4w0/hair-oil/f/z/d/30-godfather-beard-lite-beardo-original-imaf8n3zqdymbcmg.jpeg?q=70",
+        "ItemDescription": "Made With Premium Ingredients like Almond oil, Aloevera Ext, Fragrance, Vitamin E, Mineral oil, Olive oil. The BEARDO GODFATHER Beard Lite Oil is made to give your beard and mustache an nourishment and Godfather feel.So just take few drop on to your palm and apply liberally into your beard. If you want your beard to have that sexy and scruffy look, Beardo's Godfather Beard Oil is your answer. It not only makes you feel like a million bucks, but also prevents redness and itchiness. Aloe vera extracts and Almond oil keep the beard nourished and soft. The sleek style of your beard is always maintained with Beardo! What’s more? Beardo Godfather Beard Oil has a non-greasy formula making it a truly best beard oil for men."
+      },
+      {
+        "ItemName": "Himalaya Purifying Neem Face Wash  (150 ml)",
+        "ItemShortName": "Himalaya Face Wash  (150 ml)",
+        "ItemPrice": "116",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jpbic280/face-wash/4/4/s/150-purifying-neem-face-wash-himalaya-original-imafbkrdwdp94tya.jpeg?q=70",
+        "ItemDescription": ""
+      },
+      {
+        "ItemName": "Parachute Advansed Coconut Hair Oil  (300 ml)",
+        "ItemShortName": "Parachute Hair Oil  (300 ml)",
+        "ItemPrice": "128",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jv2p6kw0/hair-oil/z/x/q/300-coconut-parachute-advansed-original-imaf66y2vvxr6vcq.jpeg?q=70",
+        "ItemDescription": ""
+      }
+    ]
+  },
+  {
+    "CatId": 6,
+    "CatName": "Tv & Applicances",
+    "Items": [
+      {
+        "ItemName": "LG 108cm (43 inch) Ultra HD (4K) LED Smart TV  (43UJ652T)",
+        "ItemShortName": "LG 108cm (43 inch) LED Smart TV",
+        "ItemPrice": "55999",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/j7qi9ow0/television/n/y/w/lg-43uj652t-original-imaexxyntswmuzaf.jpeg?q=70",
+        "ItemDescription": "The LG 43UJ652T smart TV comes with 4K resolution of 3840x2160 pixels. This, combined with the relatively compact 108 cm (43) screen means that you are going to enjoy crisp and detailed images."
+      },
+      {
+        "ItemName": "Mi LED Smart TV 4A PRO 80 cm (32) with Android",
+        "ItemShortName": "Mi LED Smart TV 80 cm (32)",
+        "ItemPrice": "12999",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jucz98w0/television/d/t/k/mi-l32m5-al-original-imaffgd66rbsgtbr.jpeg?q=70",
+        "ItemDescription": " Bring home the Mi LED Smart TV 4A PRO and transform your movie-watching experience. This LED TV comes with an 80-cm (32) Ultra-bright HD-Ready Display, a 64-bit quad-core processor, and stereo speakers which provide a cinematic experience right in the comfort of your home. Also, with features such as PatchWall and Google Assistant, your TV-watching experience is made even more convenient."
+      },
+      {
+        "ItemName": "Voltas 1.5 Ton 3 Star Split AC - White  (183 DZZ, Copper Condenser)",
+        "ItemShortName": "Voltas 1.5 Ton 3 Star Split AC - White  (183 DZZ, Copper Condenser)",
+        "ItemPrice": "29,999",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jucz98w0/air-conditioner-new/c/a/s/183-dzz-1-5-split-voltas-fixed-speed-original-imafffynabh3hhmz.jpeg?q=70",
+        "ItemDescription": ""
+      },
+      {
+        "ItemName": "Whirlpool 240 L Frost Free Triple Door Refrigerator  (Magnum Steel, FP 263D PROTTON ROY MAGNUM STEEL(N))",
+        "ItemShortName": "Whirlpool 240 L Frost Free Triple Door Refrigerator",
+        "ItemPrice": "23990",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jialea80/refrigerator-new/s/c/u/fp-263d-protton-roy-na-whirlpool-original-imaf64hz6u7uxjxb.jpeg?q=70",
+        "ItemDescription": "Stylish, convenient, and efficient - this Whirlpool refrigerator will ensure that you have fresh and healthy food in your kitchen almost always. This Whirlpool’s refrigerator with a Protton 3 Door format features Whirlpool’s 6th Sense ActiveFresh Technology to keep your edibles fresh for a long time. Also, its Active Fresh Zone, Zeolite Technology, and Moisture Retention Technology offer fresh and nutritious fruits and vegetables even after days of purchasing them."
+      },
+      {
+        "ItemName": "Vu Premium Android 108cm (43 inch) Ultra HD (4K) LED Smart TV  (43-OA)",
+        "ItemShortName": "Vu Premium Android 108cm (43 inch)",
+        "ItemPrice": "30999",
+        "ItemImage": "https://rukminim1.flixcart.com/image/832/832/jtx9evk0/television/2/y/u/vu-43-oa-original-imafezdvfzvzxzyc.jpeg?q=70",
+        "ItemDescription": "Redefine entertainment with this Android 4K TV from Vu. With Dolby Vision, HDR Technology, Dolby Audio and dbx-tv Technology, this television optimally blends the visual and aural aspects to give you a gripping experience for anything you watch. Thanks to the Vu ActiVoice Remote, your voice is all you need to discover content effortlessly."
       }
     ]
   }
