@@ -1,1 +1,50 @@
-{"Output":0,"Success":0,"Message":"Email and Registration Number are invalid","Access_Type":"","Event_Name":"","Primary_Color":"","Secondary_Color":"","Highlight_Color":"","Reg_No":"","Event_Id":0}
+[
+  {
+    "CatId": 1,
+    "CatName": "Electronics,Mobile & Accessories",
+    "Items": [
+      {
+        "ItemName": "Samsung 28 L Convection Microwave Oven  (CE1041DSB2/TL, Black)",
+        "ItemPrice": "11999",
+        "ItemImage": "",
+        "ItemDescription": ""
+      },
+      {
+        "ItemName": "LG 108cm (43 inch) Ultra HD (4K) LED Smart TV  (43UJ652T)",
+        "ItemPrice": "55999",
+        "ItemImage": "",
+        "ItemDescription": ""
+      },
+      {
+        "ItemName": "Eureka Forbes Quick Clean DX Dry Vacuum Cleaner  (Black, Red)",
+        "ItemPrice": "55999",
+        "ItemImage": "",
+        "ItemDescription": ""
+      }
+    ]
+  },
+  {
+    "CatId": 2,
+    "CatName": "Home & Kitchen",
+    "Items": [
+      {
+        "ItemName": "Perfect Homes by Flipkart Julian Engineered Wood 4 Door Wardrobe  (Finish Color - Wenge, Mirror Included)",
+        "ItemPrice": "14499",
+        "ItemImage": "",
+        "ItemDescription": ""
+      },
+      {
+        "ItemName": "The Attic Ludo Mango Solid Wood Coffee Table  (Finish Color - Walnut)",
+        "ItemPrice": "12349",
+        "ItemImage": "",
+        "ItemDescription": ""
+      },
+      {
+        "ItemName": "VJ Interior Leatherette Office Executive Chair  (Black, Set of 2)",
+        "ItemPrice": "5949",
+        "ItemImage": "",
+        "ItemDescription": ""
+      }
+    ]
+  }
+]
